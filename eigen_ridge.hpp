@@ -4,7 +4,7 @@
 
 /*
  * L2-regularized (ridge) linear regression without intercept in c++11 as Eigen3 template function
- * Uses SVD decomposition, works with both tall and wide design matrices
+ * Uses singular value decomposition, works with both tall and wide design matrices
  * Written by Carlos Guerreiro carlos@perceptiveconstructs.com
  * This is free and unencumbered software released into the public domain.
  */
